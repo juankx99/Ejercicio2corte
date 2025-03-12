@@ -1,0 +1,3 @@
+/home/juan/entregables2corte/ejercicioargumentos/build/CMakeFiles/ejercicioargumentos.dir
+/home/juan/entregables2corte/ejercicioargumentos/build/CMakeFiles/edit_cache.dir
+/home/juan/entregables2corte/ejercicioargumentos/build/CMakeFiles/rebuild_cache.dir
