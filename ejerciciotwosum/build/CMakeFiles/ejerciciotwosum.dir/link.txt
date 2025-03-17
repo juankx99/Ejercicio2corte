@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ejerciciotwosum.dir/src/twosum.cpp.o -o ejerciciotwosum 

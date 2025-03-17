@@ -1,0 +1,3 @@
+/home/juan/entregables2corte/ejerciciotwosum/build/CMakeFiles/ejerciciotwosum.dir
+/home/juan/entregables2corte/ejerciciotwosum/build/CMakeFiles/edit_cache.dir
+/home/juan/entregables2corte/ejerciciotwosum/build/CMakeFiles/rebuild_cache.dir
