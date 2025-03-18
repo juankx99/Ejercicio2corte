@@ -1,4 +1,4 @@
-
+#include <iostream>
 #include <string>
 using namespace std;
 
@@ -36,3 +36,13 @@ class Solution {
             
         }
     };
+int main() {
+    //Se utiliza la clase, poniendo un ejemplo de uso
+    Solution solution;
+    string num1 = "123";
+    string num2 = "456";
+    string result = solution.addStrings(num1, num2);
+    // Se imprime el resultado
+    cout << "Resultado de la suma: " << result << endl;
+    return 0;
+}

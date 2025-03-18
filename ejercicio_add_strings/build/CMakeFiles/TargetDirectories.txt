@@ -1,0 +1,3 @@
+/home/juan/entregables2corte/ejercicio_add_strings/build/CMakeFiles/ejercicio_add_strings.dir
+/home/juan/entregables2corte/ejercicio_add_strings/build/CMakeFiles/edit_cache.dir
+/home/juan/entregables2corte/ejercicio_add_strings/build/CMakeFiles/rebuild_cache.dir
