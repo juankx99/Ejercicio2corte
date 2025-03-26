@@ -21,7 +21,7 @@ class Point2d {
         Point2d operator-(const Point2d& other) const;
         Point2d operator*(double scalar) const;
         Point2d operator/(double scalar) const;
-        bool operator==(const Point2d& other) const;
+        Point2d& operator=(const Point2d& other);
     //metodos adicionales
     double distanceto(const Point2d& other) const;
     double distanceToOrigin() const;
