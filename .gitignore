@@ -74,3 +74,9 @@ Makefile
 bin/
 obj/
 .vscode/settings.json
+
+# Doxygen output folders (keep Doxyfile)
+html/
+latex/
+*.tag
+
